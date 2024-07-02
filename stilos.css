@@ -1,0 +1,14 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color:brown
+}
+h1{
+    color:rgb(228, 9, 9)
+
+}
+.subtitulo{
+    text-align: center;
+    background-color: darksalmon;
+}
